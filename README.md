@@ -1,4 +1,4 @@
-# TextAuthenticityGuard - Detecting Genuine and Fake Reviews
+# ReviewAuthenticityGuard - Detecting Genuine and Fake Reviews
 
 ## Description
 This project aims to distinguish between genuine and fake product reviews within a dataset. The dataset contains a mix of real and computer-generated reviews, each labeled as original (authentic human-created) or computer-generated (fake). The primary objective is to create a system that accurately identifies whether a given review is authentic or fraudulent.
